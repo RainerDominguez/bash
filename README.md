@@ -1,2 +1,3 @@
 # bash
-"repository with LinuxHint bootcamp Bash labs"
+
+"Repository with LinuxHint bootcamp Bash labs"
