@@ -16,3 +16,9 @@ function function_name
 }
 call funtion
 '
+
+function hello_world
+{
+    echo "hello Everyone!"
+}
+hello_world
