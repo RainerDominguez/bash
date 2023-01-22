@@ -1,0 +1,8 @@
+DIR1
+bash_check_if_directory_exists.sh
+bash_check_if_files_exist.sh
+bash_read_file_line_by_line.sh
+file1.txt
+list.txt
+
+
